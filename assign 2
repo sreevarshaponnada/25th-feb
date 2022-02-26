@@ -1,0 +1,5 @@
+X = [0,5,0,0,3,1,15,0,12]
+X = [i for i in X if i != 0]
+print(X)
+len(X)
+print(len(X))
